@@ -26,4 +26,5 @@ https://image-generator-six-blond.vercel.app/
    <img width="630" height="778" alt="image" src="https://github.com/user-attachments/assets/762fb159-0278-437f-8d03-74eab0fb1eff" />
 
 <img width="668" height="583" alt="image" src="https://github.com/user-attachments/assets/51e8e08f-9f08-44cb-8311-5cd0c2f454c9" />
+<img width="416" height="632" alt="image" src="https://github.com/user-attachments/assets/39371e9f-64a4-4fbd-8918-950a12566114" />
 
