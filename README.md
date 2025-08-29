@@ -16,6 +16,11 @@
    git clone https://github.com/prashantvhkm/image-generator.git
    cd image-generator
    ```
+## Live Demo
+
+Check out the running app here:  
+https://image-generator-six-blond.vercel.app/
+
 
 
    <img width="630" height="778" alt="image" src="https://github.com/user-attachments/assets/762fb159-0278-437f-8d03-74eab0fb1eff" />
