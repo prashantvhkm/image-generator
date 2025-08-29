@@ -16,3 +16,9 @@
    git clone https://github.com/prashantvhkm/image-generator.git
    cd image-generator
    ```
+
+
+   <img width="630" height="778" alt="image" src="https://github.com/user-attachments/assets/762fb159-0278-437f-8d03-74eab0fb1eff" />
+
+<img width="668" height="583" alt="image" src="https://github.com/user-attachments/assets/51e8e08f-9f08-44cb-8311-5cd0c2f454c9" />
+
